@@ -131,7 +131,7 @@
     <message>
         <location filename="../Core/AdBlock/Subscription.cpp" line="239"/>
         <source>Cannot load subscription!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de charger l&apos;abonnement !</translation>
     </message>
 </context>
 <context>
@@ -441,7 +441,7 @@
     <message>
         <location filename="../Core/Widgets/Preferences/Appearance.cpp" line="209"/>
         <source>Can&apos;t decompile theme... Be sure compiler is with Sielo main exe, else move it manually or update/reinstall the browser.</source>
-        <translation>Impossible de décompiler le thème ... Vérifiez que le compilateur est dans le même dossier que l'éxecutable de Sielo, sinon mettez à jour ou réinstallez le navigateur</translation>
+        <translation>Impossible de décompiler le thème ... Vérifiez que le compilateur est dans le même dossier que l&apos;éxecutable de Sielo, sinon mettez à jour ou réinstallez le navigateur</translation>
     </message>
     <message>
         <location filename="../Core/Widgets/Preferences/Appearance.cpp" line="213"/>
@@ -575,12 +575,12 @@
     <message>
         <location filename="../Core/Password/MasterPasswordDialog.cpp" line="321"/>
         <source>Permission is required, please enter Master Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permission requise, veuillez entrer le mot de passe maitre:</translation>
     </message>
     <message>
         <location filename="../Core/Password/MasterPasswordDialog.cpp" line="324"/>
         <source>Entered password is wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Le mot de passe saisi est erroné</translation>
     </message>
 </context>
 <context>
@@ -589,27 +589,27 @@
         <location filename="../Core/Password/AutoFill/AutoFill.cpp" line="323"/>
         <location filename="../Core/Password/AutoFill/AutoFill.cpp" line="332"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFill.cpp" line="323"/>
         <source>You can&apos;t export password yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas encore exporter le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFill.cpp" line="332"/>
         <source>You can&apos;t import password yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas encore importer le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/DatabaseEncryptedPasswordBackend.cpp" line="241"/>
         <source>Database (encrypted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données (Chiffrée)</translation>
     </message>
     <message>
         <location filename="../Core/Password/DatabasePasswordBackend.cpp" line="41"/>
         <source>Database (plaintext)</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données (texte en clair)</translation>
     </message>
 </context>
 <context>
@@ -617,7 +617,7 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillIcon.cpp" line="39"/>
         <source>Choose username to login</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom d&apos;utilisateur pour vous connecter</translation>
     </message>
 </context>
 <context>
@@ -628,7 +628,7 @@
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="260"/>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="413"/>
         <source>Show Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les mots de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="149"/>
@@ -643,68 +643,68 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="194"/>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmation</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="195"/>
         <source>Are you sure you want to delete all passwords on your computer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les mots de passe de votre ordinateur ?</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="215"/>
         <source>Edit password</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="216"/>
         <source>Change password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le mot de passe :</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="261"/>
         <source>Are you sure that you want to show all passwords?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir montrer tous les mots de passe ?</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="274"/>
         <source>Hide Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer les mots de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="327"/>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="332"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="327"/>
         <source>You can&apos;t import password yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas encore importer le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="332"/>
         <source>You can&apos;t export password yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas encore exporter le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="358"/>
         <source>Copy Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le nom d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="359"/>
         <source>Copy Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="361"/>
         <source>Edit Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le mot de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="382"/>
         <source>Passwords are stored in: </source>
-        <translation type="unfinished"></translation>
+        <translation>Les mots de passe sont stockés dans :</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="384"/>
@@ -719,65 +719,65 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="396"/>
         <source>Search (not available yet)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche (pas encore disponible)</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="404"/>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="441"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="405"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="406"/>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="455"/>
         <source>Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Mots de passe</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="408"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="409"/>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="443"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppprimer</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="410"/>
         <source>Remove all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout supprimer</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="411"/>
         <source>Import and Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer et exporter</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="429"/>
         <source>Import Passwords from File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer des mots de passe à partir d&apos;un fichier...</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="430"/>
         <source>Export Passwords to File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les mots de passe dans un fichier...</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="444"/>
         <source>Remove All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout supprimer</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillManager.cpp" line="456"/>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Exceptions</translation>
     </message>
 </context>
 <context>
@@ -785,12 +785,12 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="49"/>
         <source>on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>sur %1</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="52"/>
         <source>for &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>pour &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="55"/>
@@ -805,22 +805,22 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="113"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="114"/>
         <source>Remember</source>
-        <translation type="unfinished"></translation>
+        <translation>Se souvenir</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="115"/>
         <source>Never For This Site</source>
-        <translation type="unfinished"></translation>
+        <translation>Jamais pour ce site</translation>
     </message>
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillNotification.cpp" line="116"/>
         <source>Not Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas maintenant</translation>
     </message>
 </context>
 <context>
@@ -828,7 +828,7 @@
     <message>
         <location filename="../Core/Password/AutoFill/AutoFillWidget.cpp" line="157"/>
         <source>Login as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter en tant que</translation>
     </message>
 </context>
 <context>
@@ -836,32 +836,32 @@
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="111"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="115"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="146"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau dossier</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="200"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="212"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksDialog.cpp" line="213"/>
         <source>Add Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un dossier</translation>
     </message>
 </context>
 <context>
@@ -872,7 +872,7 @@
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="266"/>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="288"/>
         <source>Bookmarks Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu des signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="149"/>
@@ -880,23 +880,23 @@
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="260"/>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="280"/>
         <source>Bookmarks Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barre de signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="167"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le fichier</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="167"/>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="191"/>
         <source>XBEL (*.xbel *.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="177"/>
         <source>Loading Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du signet</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="178"/>
@@ -913,7 +913,7 @@
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="189"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer le fichier</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="190"/>
@@ -923,32 +923,32 @@
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="199"/>
         <source>Export error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;exportation</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="199"/>
         <source>Error saving bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;enregistrement des signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="243"/>
         <source>Loading Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement des signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="257"/>
         <source>Toolbar Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Barre d&apos;outils des signets</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarkManager.cpp" line="263"/>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksCommands.cpp" line="34"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Supprimer le signet</translation>
     </message>
     <message>
         <location filename="../Core/Bookmarks/BookmarksCommands.cpp" line="69"/>
